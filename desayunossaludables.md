@@ -5,3 +5,5 @@
 # Ingredientes de la receta.
 
 # Instrucciones de preparación.
+
+# Consejos y variaciones de la receta.
